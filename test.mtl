@@ -1,0 +1,53 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl JoinedMaterial_#96
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+d 1
+Ns 3.90741
+illum 2
+map_Kd textures\5.png
+
+newmtl JoinedMaterial_#79
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+d 1
+Ns 3.90741
+illum 2
+map_Kd textures\6.png
+
+newmtl JoinedMaterial_#128
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+d 1
+Ns 3.90741
+illum 2
+map_Kd textures\7.png
+
+newmtl JoinedMaterial_#98
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+d 1
+Ns 3.90741
+illum 2
+map_Kd textures\8.png
+
+newmtl JoinedMaterial_#134
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+d 1
+Ns 3.90741
+illum 2
+map_Kd textures\9.png
+
